@@ -1,4 +1,4 @@
-# Jira-Like Project Management Platform
+# SyncPoint Project Management Platform
 
 A comprehensive project management platform built with FastAPI backend and React frontend, featuring role-based access control, Google OAuth authentication, and full CRUD operations for managing projects, tasks, and users.
 
